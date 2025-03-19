@@ -19,16 +19,16 @@ This tutorial outlines the setup for Active Directory(AD)
 <h2> Objectives</h2>
 
 - Install Active Directory
-- Create Domain Admin user within the domain
+- Create a Domain Admin user within the domain
 - Join Client-1 to your domain (mydomain.com)
 - Setup Remote Desktop for non-administrative users on Client-1
 
-
+<h2> Configuration </h2>
 
 <br />
 <h2>Conclusion</h2>
 
-<p>Once you've setup in this project, this Active Directory serves as a basis for future projects and implementation!</p>
-- If you want to see how to use the Active Directory, click on the next project: <a href="https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration">Next Project</a>
+<p>Now you've set up Active Directory in your Virtual Machine with users that can be used in your organization (mydomain.com)</p>
+- If you want to see how the next step, click on the next project: <a href="[https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration](https://github.com/JOmega12/Active-Directory-Generating-Users)">Next Project</a>
 
 <br />
