@@ -29,6 +29,6 @@ This tutorial outlines the setup for Active Directory(AD)
 <h2>Conclusion</h2>
 
 <p>Now you've set up Active Directory in your Virtual Machine with users that can be used in your organization (mydomain.com)</p>
-- If you want to see how the next step, click on the next project: <a href="[https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration](https://github.com/JOmega12/Active-Directory-Generating-Users)">Next Project</a>
+- If you want to see how the next step, click on the next project: <a href="https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration">Next Project</a>
 
 <br />
