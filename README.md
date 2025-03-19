@@ -25,6 +25,13 @@ This tutorial outlines the setup for Active Directory(AD)
 
 <h2> Configuration </h2>
 
+<h3>Install Active Directory</h3>
+
+<h3>Create a Domain Admin user within the domain</h3>
+
+<h3>Join Client-1 to your domain (mydomain.com)</h3>
+
+<h3>Setup Remote Desktop for non-administrative users on Client-1</h3>
 <br />
 <h2>Conclusion</h2>
 
