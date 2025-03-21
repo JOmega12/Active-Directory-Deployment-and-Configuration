@@ -27,9 +27,15 @@ This tutorial outlines the setup for Active Directory(AD)
 
 <h3>Install Active Directory</h3>
 
+- Go to Dc-1, in Server Manager, we are going to setup a new forest for AD as mydomain.com, then restart and login as mydomain.com\labuser
 <h3>Create a Domain Admin user within the domain</h3>
 
+- In Active Directory Users and Computers (found in windows), create an Organizational Unit (OU) called "_EMPLOYEES"
+- Create a new employee named Jane Doe with username as 'jane_admin' with password as 'Cyberlab123!'
+- log out and login as mydomain.com\jane_admin. This will now be used as administrator purposes for the rest of the project/lab to simulate being an administrator 
+
 <h3>Join Client-1 to your domain (mydomain.com)</h3>
+
 
 <h3>Setup Remote Desktop for non-administrative users on Client-1</h3>
 <br />
