@@ -30,6 +30,7 @@ This tutorial outlines the setup for Active Directory(AD)
 - Go to Dc-1, in Server Manager, we are going to setup a new forest for AD as mydomain.com, then restart and login as mydomain.com\labuser
 ![InstallADinDC](https://github.com/user-attachments/assets/5779bf4d-04b6-4659-bb8b-819a03b010ee)
 
+- Click on this button and add the Domain Button
 ![clickOnThisToInstallAD](https://github.com/user-attachments/assets/cb0c79af-86b1-477b-9d1f-b36f53783fdc)
 ![addingDomainCom](https://github.com/user-attachments/assets/8cc078e1-ec76-45e2-b000-68b768f4b824)
 
@@ -46,11 +47,13 @@ This tutorial outlines the setup for Active Directory(AD)
 ![makeHeradminMemberOf](https://github.com/user-attachments/assets/cc7b1360-eb6f-4df3-8867-08c643578301)
 
 <h3>Join Client-1 to your domain (mydomain.com)</h3>
-![ConnectClient1ToDC](https://github.com/user-attachments/assets/400d821c-6b1d-4032-bd7a-d572dc6cb025)
+
+![ConnectClient1ToDC](https://github.com/user-attachments/assets/5dd1798d-1da3-4ab8-9f5c-e225f3108fe2)
 
 
 <h3>Setup Remote Desktop for non-administrative users on Client-1</h3>
-![inClient1AdminTurnonRDP](https://github.com/user-attachments/assets/f81329ba-a4aa-49b0-af7e-7fb3e3cfd56f)
+
+![ConnectClient1ToDC](https://github.com/user-attachments/assets/3304cf64-e7de-44a4-b4db-c994005383df)
 
 
 <br />
